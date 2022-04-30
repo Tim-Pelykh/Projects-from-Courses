@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+}
+
+.icon {
+    color: blue;
+    margin-bottom: 2rem;
+}
+
+h2 {
+    margin-bottom: 1rem;
+}
+
+.container {
+    padding-top: 13%;
+}
+
+
+.form-control {
+    width: 20rem;
+    margin:0.5rem auto;
+}
+
+.btn {
+    margin-top: 1.5rem;
+    width: 20rem;
+}
+
+.copyright {
+    margin: 3% auto;
+    color: #a5a5a5;
+}
